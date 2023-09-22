@@ -130,3 +130,8 @@
 #check:checked ~ .sidebar_menu .btn_two i {
     opacity: 1; 
 }
+
+.sidebar_menu .logo:hover{ 
+box-shadow: 0 0 6px rgba(255, 255, 255, 0.5);
+
+}
